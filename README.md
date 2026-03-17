@@ -1,7 +1,7 @@
 # Tela quiz_app
 ## Atividade Primeiro App - Individual
 
-Instruções \n
+Instruções <br>
 Crie um projeto Flutter e desenhe a primeira tela de um app da temática da sua escolha.
 
 Ex: um app de Quiz sobre algum assunto, cria-se o projeto, e uma tela contendo a estrutura de um quiz, com perguntas, opções de resposta e um botão de enviar.
